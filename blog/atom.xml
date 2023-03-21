@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/kayla-lin/lenspa-documentation/blog</id>
+    <id>https://kayla-lin.github.io/lenspa-docusaurus/blog</id>
     <title>Lenspa Blog</title>
     <updated>2023-03-20T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/kayla-lin/lenspa-documentation/blog"/>
+    <link rel="alternate" href="https://kayla-lin.github.io/lenspa-docusaurus/blog"/>
     <subtitle>Lenspa Blog</subtitle>
-    <icon>https://github.com/kayla-lin/lenspa-documentation/img/favicon.ico</icon>
+    <icon>https://kayla-lin.github.io/lenspa-docusaurus/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome!]]></title>
-        <id>https://github.com/kayla-lin/lenspa-documentation/blog/welcome</id>
-        <link href="https://github.com/kayla-lin/lenspa-documentation/blog/welcome"/>
+        <id>https://kayla-lin.github.io/lenspa-docusaurus/blog/welcome</id>
+        <link href="https://kayla-lin.github.io/lenspa-docusaurus/blog/welcome"/>
         <updated>2023-03-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This blog is created to document the creation and development of Lenspa for CSC211.]]></summary>
         <content type="html"><![CDATA[<p>This blog is created to document the creation and development of Lenspa for CSC211.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-is-lenspa">What is Lenspa?<a href="#what-is-lenspa" class="hash-link" aria-label="Direct link to What is Lenspa?" title="Direct link to What is Lenspa?">​</a></h2><p>When thinking about their community, most people only consider the few circles closest to them: their friends, their family, their coworkers, their neighbors. While the internet has proven to be amazing for connecting to people from all around the world, existing social media platforms do little to challenge cultural and language barriers that keep people stuck in homogeneous social circles. Services rely on written or spoken communication, severely limiting the potential pool of people you can connect with. This problem is important as it contributes to a lack of cultural and world awareness that leads to racism, nationalism, prejudice, and even violence. More needs to be done to usher in an era of global connection and inclusivity.</p><p>Lenspa, is a photo based pen-pal app. Each user will be randomly matched with another user somewhere in the world based on their match preferences. Then, each day, both users would be given the same prompt in their respective languages designed to showcase different aspects of their daily experiences, culture, and realities. Both users would reply to the prompt with a picture and would be shown each other’s responses, which they could learn from and connect over.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="our-documentation">Our documentation<a href="#our-documentation" class="hash-link" aria-label="Direct link to Our documentation" title="Direct link to Our documentation">​</a></h2><p>Our plan is to create a mobile-first web app that will be available on any device with modern internet browsing. We plan to use NodeJS, Express, React, and MySQL. We will most likely use the free AWS plan for hosting.</p><p>We'll be documentating updates each week here.</p>]]></content>
@@ -24,8 +24,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>https://github.com/kayla-lin/lenspa-documentation/blog/long-blog-post</id>
-        <link href="https://github.com/kayla-lin/lenspa-documentation/blog/long-blog-post"/>
+        <id>https://kayla-lin.github.io/lenspa-docusaurus/blog/long-blog-post</id>
+        <link href="https://kayla-lin.github.io/lenspa-docusaurus/blog/long-blog-post"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
         <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p><p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
@@ -38,8 +38,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>https://github.com/kayla-lin/lenspa-documentation/blog/first-blog-post</id>
-        <link href="https://github.com/kayla-lin/lenspa-documentation/blog/first-blog-post"/>
+        <id>https://kayla-lin.github.io/lenspa-docusaurus/blog/first-blog-post</id>
+        <link href="https://kayla-lin.github.io/lenspa-docusaurus/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklenspa_docusaurus=self.webpackChunklenspa_docusaurus||[]).push([[513],{7803:e=>{e.exports=JSON.parse('{"permalink":"/kayla-lin/lenspa-documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

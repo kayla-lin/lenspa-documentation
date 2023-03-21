@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklenspa_docusaurus=self.webpackChunklenspa_docusaurus||[]).push([[317],{6333:a=>{a.exports=JSON.parse('{"label":"lenspa","permalink":"/kayla-lin/lenspa-documentation/blog/tags/lenspa","allTagsPath":"/kayla-lin/lenspa-documentation/blog/tags","count":1}')}}]);

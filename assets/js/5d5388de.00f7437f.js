@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklenspa_docusaurus=self.webpackChunklenspa_docusaurus||[]).push([[835],{918:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/lenspa-docusaurus/blog/tags/hola","allTagsPath":"/lenspa-docusaurus/blog/tags","count":1}')}}]);
