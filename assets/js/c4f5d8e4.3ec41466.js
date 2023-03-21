@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklenspa_docusaurus=self.webpackChunklenspa_docusaurus||[]).push([[195],{2841:(e,s,u)=>{u.r(s),u.d(s,{default:()=>l});var a=u(7294),n=u(6550),t=u(2263);function l(){const e=(0,t.Z)();return a.createElement(n.l_,{to:`/${e.siteConfig.baseUrl}blog`})}}}]);

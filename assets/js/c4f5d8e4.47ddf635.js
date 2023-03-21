@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklenspa_docusaurus=self.webpackChunklenspa_docusaurus||[]).push([[195],{2841:(e,s,u)=>{u.r(s),u.d(s,{default:()=>c});var n=u(7294),t=u(2263),a=u(6550);function c(){const{siteConfig:e}=(0,t.Z)();return n.createElement(a.l_,{to:"/blog"})}}}]);
