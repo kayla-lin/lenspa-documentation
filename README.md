@@ -1,8 +1,8 @@
-# Website
+# Lenspa's Docusaurus
 
 [See deployment](https://kayla-lin.github.io/lenspa-docusaurus/blog/welcome)
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. This website is created to document weekly updates on the Lenspa project for CSC211.
 
 ## Installation
 
