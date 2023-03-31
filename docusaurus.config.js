@@ -61,7 +61,7 @@ const config = {
         },
         items: [
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/kayla-lin/lenspa-docusaurus/tree/main",
             label: "GitHub",
             position: "right",
           },
