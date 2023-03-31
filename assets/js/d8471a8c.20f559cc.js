@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklenspa_docusaurus=self.webpackChunklenspa_docusaurus||[]).push([[399],{1983:s=>{s.exports=JSON.parse('{"permalink":"/lenspa-docusaurus/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

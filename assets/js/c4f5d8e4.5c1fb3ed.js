@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklenspa_docusaurus=self.webpackChunklenspa_docusaurus||[]).push([[195],{2841:(u,e,s)=>{s.r(e),s.d(e,{default:()=>n});var a=s(7294),l=s(6550);function n(){return a.createElement(l.l_,{to:"/lenspa-docusaurus/blog"})}}}]);
