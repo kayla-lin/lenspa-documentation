@@ -44,6 +44,6 @@ This was our first week of development following the completion of the midterm r
 
 None this week!
 
-# Conclusion
+# Reflection
 
 Everything this week went smoothly and we completed all our planned tasks. We now know exactly what we need to build going forward and are ready to start developing our final prototype
