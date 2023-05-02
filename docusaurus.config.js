@@ -40,6 +40,8 @@ const config = {
         docs: false,
         blog: {
           showReadingTime: true,
+          postsPerPage: "ALL",
+          blogSidebarCount: "ALL",
         },
         theme: {
           //customCss: require.resolve("./src/css/custom.css"),
