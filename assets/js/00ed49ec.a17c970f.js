@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklenspa_docusaurus=self.webpackChunklenspa_docusaurus||[]).push([[681],{6265:s=>{s.exports=JSON.parse('{"permalink":"/lenspa-docusaurus/blog/tags/week-1","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
